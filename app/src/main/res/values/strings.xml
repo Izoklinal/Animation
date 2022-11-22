@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Animation</string>
+    <string name="btn_forward">Forward</string>
+    <string name="btn_backward">Backward</string>
+    <string name="make_anim">Animation</string>
+    <string name="hide">Hide</string>
+    <string name="big">Big</string>
+    <string name="small">Small</string>
+    <string name="rotate">Rotate</string>
+    <string name="move">Move</string>
+</resources>
